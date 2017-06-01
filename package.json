@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-kotlin",
+  "version": "1.0.0",
+  "description": "Making a nodejs app with kotlin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amitav Khandelwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "kotlin": "^1.1.0"
+  }
+}
